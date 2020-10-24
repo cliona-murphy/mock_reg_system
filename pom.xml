@@ -21,5 +21,17 @@
       <version>4.8.2</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+	    <groupId>com.github.cliona-murphy</groupId>
+	    <artifactId>mock-reg-system</artifactId>
+	    <version>jitpack-release</version>
+	</dependency>
   </dependencies>
+  
+  <repositories>
+	<repository>
+	    <id>jitpack.io</id>
+	    <url>https://jitpack.io</url>
+    </repository>
+  </repositories>
 </project>
